@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <Ejercicio 5 prte 2 en main: 
 Abre VS Code y crea una nueva carpeta llamada "mi-git-nombre".
 En la barra lateral izquierda, haz clic en el icono de "Source Control" (parece una bifurcación).
@@ -25,3 +25,14 @@ Revisa los cambios y completa la creación del Pull Request.
 Cambia a la rama main en VS Code.
 En la vista de GitHub, encuentra tu Pull Request y haz clic en "Merge Pull Request".
 >>>>>>> 6e5fb7935d16967f1d437aa619a76c1df7cc464b
+=======
+
+< Ejercicio 5: 
+Resolución de conflictos
+Crea una nueva rama llamada "conflicto" desde main.
+Modifica una línea específica en README.md y haz un commit.
+Vuelve a la rama main, modifica la misma línea de manera diferente y haz un commit.
+Intenta fusionar la rama "conflicto" en main (puedes hacer esto creando un Pull Request o usando el comando "Merge Branch" en el menú de Git).
+VS Code mostrará los conflictos. Utiliza el editor de fusión de VS Code para resolverlos.
+Una vez resueltos, haz stage de los cambios y completa el merge con un commit.
+>>>>>>> 05fc657e5327a6ee614937c39c39a44020f0b4a3
